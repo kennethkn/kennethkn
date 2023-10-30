@@ -18,7 +18,7 @@
 - [*LinkedIn*](https://www.linkedin.com/in/kenneth-kwan-6bb396262)
 - [*Email*](mailto:kennethhohinkwan@gmail.com)
 
-<img src="connect.png" alt="we should connect!" width="256"/>
+<img src="connect.jpeg" alt="we should connect!" width="256"/>
 
 <!--
 **kennethkn/kennethkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
