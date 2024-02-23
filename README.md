@@ -11,7 +11,7 @@
 - HTML, CSS, JavaScript, TypeScript
 - Django, React.js, Tailwind CSS ❤️
 - Python, C, C++, SQL
-- Learning Java!
+- Java
 
 #### 🤝 let's connect
 
