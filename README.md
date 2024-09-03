@@ -3,8 +3,6 @@
 - Sophomore @ HKU
 - I try to upload code that's helpful :)
 - Check out my [website](https://kennethkn.github.io/kennethkn/)!
-- Seriously, check it out! You won't regret it! [Click here](https://kennethkn.github.io/kennethkn/)!
-- It's responsive so you can view it on your phone too! Just click [here](https://kennethkn.github.io/kennethkn/)!
 
 #### :globe_with_meridians: Languages
 
@@ -25,36 +23,38 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/latex" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/markdown/_/white" />
+<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/_/white" /> -->
 </div>
 
 `Frameworks`
 
 <div display="flex">
+<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/django/_/white" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />
+<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /> -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/selenium" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/puppeteer" />
+
 </div>
 
-`Tools`
+<!-- `Tools` -->
 
-<div display="flex">
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+<!-- <div display="flex">
+<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/anaconda" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-<!-- <img height="32" width="32" src="https://cdn.simpleicons.org/rstudio" /> -->
 <img height="32" width="32" src="https://cdn.simpleicons.org/eclipseide/_/orange" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/jupyter" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/figma" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/miro/_/gold" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/homebrew" />
-</div>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />
+</div> -->
 
 And more! I'm always learning new things.
 
