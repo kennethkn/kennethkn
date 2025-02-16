@@ -2,21 +2,20 @@
 
 - Junior @ HKU
 - Aspiring Software Engineer
-- I love to build projects and learn new technologies
+- I love to learn and build things
 - Check out my [website](https://kennethkn.github.io/kennethkn/)!
 
 ## :hammer_and_wrench: Tech Stack
 
-- **Languages:** HTML | CSS | JavaScript | TypeScript | Python | R | C++ | C | Java | Shell | LaTeX
-- **Frameworks:** Next.js | React | TailwindCSS | Flask | Django | Selenium | Puppeteer
-- **Databases:** PostgreSQL | MySQL
-- **DevOps:** Git | Docker | Linux
+- **Languages:** HTML/CSS | JavaScript | TypeScript | Python | R | C/C++ | Java | SQL | LaTeX
+- **Frameworks:** Next.js | Angular | Spring Boot | JHipster | React | Flask | Django | Tailwind CSS | Selenium | Puppeteer
+- **DevOps:** GitHub | GitLab | GitHub Actions | Docker | Linux | Bash
+- **Business:** Microsoft Office (Word, Excel, PowerPoint, Access) | Google Workspace
 - Full list on my [website](https://kennethkn.github.io/kennethkn/)
 
 ## :handshake: Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/kenneth-kwan-6bb396262)
-- [Email](mailto:kennethhohinkwan@gmail.com)
 
 [<img src="connect.jpeg" alt="we should connect!" width="256"/>](https://www.linkedin.com/in/kenneth-kwan-6bb396262)
 
