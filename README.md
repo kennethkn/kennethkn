@@ -3,7 +3,6 @@
 - Software Engineer
 - Final Year @ HKU
 - Based in Hong Kong
-- Building is my passion
 
 <i><b>
 - Check out my [website](https://kennethkn.github.io/kennethkn/)!
@@ -12,14 +11,6 @@
 - [mi web personal](https://kennethkn.github.io/kennethkn/)
 - Check out my [website](https://kennethkn.github.io/kennethkn/)!
 </b></i>
-
-## :hammer_and_wrench: What I know
-
-- Programming: HTML/CSS | JavaScript | TypeScript | Python | R | C/C++ | Java | SQL
-- Frameworks: Next.js | Angular | Spring Boot | JHipster | React | Flask | Django | Tailwind CSS | Selenium | Puppeteer
-- DevOps: GitHub | GitLab | Docker | Linux | Bash
-- Business: Microsoft Office (Word, Excel, PowerPoint, Access) | Google Workspace
-- Languages: English (Fluent) | Cantonese / Mandarin (Native) | Spanish (Beginner)
 
 ## :handshake: Let's connect
 
